@@ -4,4 +4,4 @@ bilgisayarınızda python yüklü olmalıdır, eger yüklü degilse yükleyiniz,
 python için gerekli kütüphaneleri pip komutu ile yükleyiniz
 fittbook_app.py uzantılı dosyayı çalıştırın ve kullanın
 windows için:
-konsol açılmaması için fittbook_app.pyw uzantılı dosyayı çalıştırın
+konsol açılmaması için fittbook_app_noconsol.pyw uzantılı dosyayı çalıştırın
