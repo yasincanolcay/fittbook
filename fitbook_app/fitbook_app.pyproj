@@ -1,0 +1,74 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>95736842-1276-4d46-ba92-39d4023ccd1c</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>fitbook_app.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>fitbook_app</Name>
+    <RootNamespace>fitbook_app</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="fitbook_app.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about_20px.png" />
+    <Content Include="delete.png" />
+    <Content Include="error_20px.png" />
+    <Content Include="error_50px.png" />
+    <Content Include="exit.png" />
+    <Content Include="facebook.png" />
+    <Content Include="fitbook.png" />
+    <Content Include="food_100px.png" />
+    <Content Include="github.png" />
+    <Content Include="hexeosis.gif" />
+    <Content Include="instagram.png" />
+    <Content Include="kaydet.png" />
+    <Content Include="kayit_succes2.png" />
+    <Content Include="kayit_succes.png" />
+    <Content Include="kcal.png" />
+    <Content Include="kilo_verme.txt" />
+    <Content Include="label_load1.png" />
+    <Content Include="label_load2.png" />
+    <Content Include="label_load3.png" />
+    <Content Include="label_load4.png" />
+    <Content Include="label_load5.png" />
+    <Content Include="lady_50px.png" />
+    <Content Include="linux.png" />
+    <Content Include="load1.png" />
+    <Content Include="load2.png" />
+    <Content Include="load3.png" />
+    <Content Include="load4.png" />
+    <Content Include="ok_50px.png" />
+    <Content Include="onay.png" />
+    <Content Include="person_50px.png" />
+    <Content Include="python.png" />
+    <Content Include="scale_50px.png" />
+    <Content Include="scale_50pxred.png" />
+    <Content Include="Stylesheet1.css" />
+    <Content Include="turkey_50px.png" />
+    <Content Include="twitter.png" />
+    <Content Include="windows.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

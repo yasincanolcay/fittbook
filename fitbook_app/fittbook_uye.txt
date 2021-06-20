@@ -1,0 +1,128 @@
+
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 30
+boy: 1.7
+cinsiyet: erkek
+
+durum: Ýdeal kilonuzun altýndasýnýz
+Durum: zayýf
+Diyet programýna göz atýn
+
+uyelik kimligi: 3142269
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 65
+boy: 1.7
+cinsiyet: erkek
+
+durum: Kilonuz Normal
+Durum: mükemmel
+Diyet yapmanýza gerek yok
+
+uyelik kimligi: 2817140
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 90
+boy: 1.7
+cinsiyet: erkek
+
+durum: Ýdeal kilonuzun çok üstünde
+Durum: obez
+Diyet programýna göz atarak
+kilolardan kurtulun
+
+uyelik kimligi: 6012088
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 80
+boy: 1.7
+cinsiyet: erkek
+
+durum: Ýdeal kilonuzun üstündesiniz
+Durum: kilolu
+Diyet programýna göz atmanýzý tavsiye ederiz
+
+uyelik kimligi: 873407
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 200
+boy: 1.7
+cinsiyet: erkek
+
+durum: Ýdeal kilonuzun çok çok üstü
+Durum: ciddi obezite
+Acilen Diyet Programýna Göz Atýn!
+
+uyelik kimligi: 7985585
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
+*****************************************************************
+üye ismi: test
+üye soyisim: test
+yaþ : 22
+kilo : 60
+boy: 1.7
+cinsiyet: kadýn
+
+durum: Kilonuz Normal
+Durum: mükemmel
+Diyet yapmanýza gerek yok
+
+uyelik kimligi: 3248385
+
+©fitbook - olcaysoftware
+
+
+
+*****************************************************************
+            
+                    
